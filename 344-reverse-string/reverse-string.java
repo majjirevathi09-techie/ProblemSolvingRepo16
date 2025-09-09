@@ -1,6 +1,6 @@
 class Solution {
     public void reverseString(char[] s) {
-        
+        //SWAP IS USED
         int N = s.length; //length
         int i=0;
         int j=N-1;
