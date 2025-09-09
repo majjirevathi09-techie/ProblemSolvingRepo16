@@ -1,6 +1,6 @@
 class Solution {
     public int lengthOfLastWord(String s) {
-        s = s.trim();
+//        s = s.trim();
         char inputArray[] = s.toCharArray();
         int N = inputArray.length;
         int i = N - 1;
