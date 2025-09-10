@@ -1,4 +1,12 @@
 class Solution {
+     
+    //  int a=10; int b=20;
+    
+    //  a=a+b; b=a-b; a=a-b; //SWAP 2 nos using Math Oper
+
+    //a=a^b; b=a^b; a=a^b; //SWAP using bitwise oper
+
+
     public void reverseString(char[] s) {
         //SWAP IS USED
         int N = s.length; //length
